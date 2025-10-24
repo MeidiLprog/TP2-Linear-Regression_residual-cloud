@@ -1,3 +1,4 @@
+*Author: Meidi Lefki*  
 # TP2-Linear-Regression_residual-cloud  
 ### Linear regression's lab in R
 
@@ -236,5 +237,4 @@ A lower AIC indicates a better trade-off between fit quality and model simplicit
 
 ---
 
-✍️ *Author: [Your Name]*  
-📚 *Source: Course “Statistique descriptive 2” — TP2 Régression linéaire et nuage de résidus*
+*Source: Course “Statistique descriptive 2” TP2 Régression linéaire et nuage de résidus*
